@@ -281,13 +281,17 @@ p {
 }
 
 .media-icons i {
-    color: rgb(167, 167, 167);
+    color: rgb(201, 201, 201);
     font-size: 1.5rem;
     margin: 10px;
+    background: rgba(0, 100, 95, 0.384);
+    padding: 5px;
+    border-radius: 50%;
 }
 
 .media-icons i:hover {
     color: rgb(0, 238, 255);
+    background: rgba(27, 27, 27, 0);
 }
 
 
